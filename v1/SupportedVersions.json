@@ -1,7 +1,12 @@
 {
     "min": 29480000,
-    "max": 29490000,
+    "max": 29500000,
     "hookPointsMap": {
+        "29500000": {
+            "className": "er30",
+            "methodName": "a",
+            "parameterClassName": "dr30"
+        },
         "29490000": {
             "className": "fg30",
             "methodName": "a",
